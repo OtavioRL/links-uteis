@@ -9,3 +9,5 @@ https://patternico.com - Criador de padrões de background <br>
 https://heropatterns.com - Padrões de background pré-definidos <br>
 https://haikei.app - Gerador de waves e blobs <br>
 https://unsplash.com - Imagens gratuitas <br>
+https://undraw.co/illustrations - Ilustrações gratuitas em SVG <br>
+https://blush.design - Outras ilustrações gratuitas
