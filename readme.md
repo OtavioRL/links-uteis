@@ -11,4 +11,5 @@ https://haikei.app - Gerador de waves e blobs <br>
 https://unsplash.com - Imagens gratuitas <br>
 https://undraw.co/illustrations - Ilustrações gratuitas em SVG <br>
 https://blush.design - Outras ilustrações gratuitas <br>
-https://bundlephobia.com 
+https://bundlephobia.com <br>
+https://www.patterns.dev
